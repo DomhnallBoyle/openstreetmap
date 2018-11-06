@@ -1,0 +1,7 @@
+leaflet
+libspatialindex
+osmosis
+*.osm
+*.pbf
+*.pyc
+.idea/
